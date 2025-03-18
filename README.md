@@ -18,3 +18,5 @@ Il dispositivo si alimenta con una batteria agli ioni di litio, ricaricabile tra
 ⭐ **Supporta il progetto**: Se questo repository ti è stato utile, lascia una **⭐ Star**! è gratis, pulsante in alto a destra.
 
 🔍 **Tag**: `Tesina` `pdf` `Tecnologie e sistemi elettroici avanzati` `DISIM` `DIIIE` `UnivAQ` `ESP32` `Bluetooth` 
+
+![1](https://github.com/riccardobeniamino/TeoriaDeiSegnali/blob/main/2.jpg](https://github.com/rickb3n/ESPeaker32/blob/main/ESPeaker32_render_3d.jpg)
