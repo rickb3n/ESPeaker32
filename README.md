@@ -20,3 +20,6 @@ Il dispositivo si alimenta con una batteria agli ioni di litio, ricaricabile tra
 🔍 **Tag**: `Tesina` `pdf` `Tecnologie e sistemi elettroici avanzati` `DISIM` `DIIIE` `UnivAQ` `ESP32` `Bluetooth` 
 
 ![1](https://github.com/rickb3n/ESPeaker32/blob/main/ESPeaker32_render_3d.jpg)
+![2](https://github.com/rickb3n/ESPeaker32/blob/main/pcb_fabric.jpg)
+![3](https://github.com/rickb3n/ESPeaker32/blob/main/pcb1.jpg)
+![4](https://github.com/rickb3n/ESPeaker32/blob/main/ESPeaker32_finale.jpg)
