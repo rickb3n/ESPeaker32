@@ -1,7 +1,7 @@
 # ESPeaker32
 Speaker bluetooth basato su ESP32, UDA1334, TDA7056B, MT3608, TC4056A
 
-ESPeaker32 è un progetto che replica uno speaker Bluetooth commerciale utilizzando un microcontrollore ESP32.  
+ESPeaker32 è un progetto che replica uno speaker Bluetooth commerciale utilizzando un microcontrollore ESP32 realizzato come parte del corso Tecnologie e sistemi elettronici avanzati DIIIE UnivAQ.
 Il dispositivo si alimenta con una batteria agli ioni di litio, ricaricabile tramite micro-USB, e supporta la riproduzione di audio stereo tramite il protocollo A2DP.
 
 ## 🚀 Caratteristiche principali
@@ -12,6 +12,7 @@ Il dispositivo si alimenta con una batteria agli ioni di litio, ricaricabile tra
 - **Ottimizzazione del Rumore**: Filtraggio dell'alimentazione tramite filtri pi-greco del secondo ordine per ridurre il rumore ad alta frequenza sui rail di alimentazione.  
 
 ## 📁 Struttura del progetto
-- **🛠 Hardware**: Schema elettrico e PCB con gestione energetica e amplificazione ottimizzata.  
-- **💾 Firmware**: Implementazione del protocollo I2S per la comunicazione tra ESP32 e DAC.  
+- 📜 **Tesina**: [tesina_ESPeaker32_2.pdf](https://github.com/rickb3n/ESPeaker32/blob/main/tesina_ESPeaker32_2.pdf)
+- **🛠 Hardware**: Schema elettrico e PCB con analisi e filtraggio del rumore ad alta frequenza.
+- **💾 Firmware**: [Libreria ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP)
 - **🌡 Analisi termica**: Monitoraggio delle temperature e confronto teorico.  
