@@ -16,3 +16,7 @@ Il dispositivo si alimenta con una batteria agli ioni di litio, ricaricabile tra
 - **🛠 Hardware**: Schema elettrico e PCB con analisi e filtraggio del rumore ad alta frequenza.
 - **💾 Firmware**: [Libreria ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP)
 - **🌡 Analisi termica**: Monitoraggio delle temperature e confronto teorico.  
+
+⭐ **Supporta il progetto**: Se questo repository ti è stato utile, lascia una **⭐ Star**! è gratis, pulsante in alto a destra.
+
+🔍 **Tag**: `Tesina` `pdf` `Tecnologie e sistemi elettroici avanzati` `DISIM` `DIIIE` `UnivAQ` `ESP32` `Bluetooth` 
