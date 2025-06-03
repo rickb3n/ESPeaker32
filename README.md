@@ -10,7 +10,7 @@ Il dispositivo si alimenta con una batteria agli ioni di litio, ricaricabile tra
 - **Ottimizzazione del Rumore**: Filtraggio dell'alimentazione tramite filtri pi-greco del secondo ordine per ridurre il rumore ad alta frequenza sui rail di alimentazione.  
 
 ## 📁 Struttura del progetto
-- 📜 **Tesina**: [tesina_ESPeaker32_2.pdf](https://github.com/rickb3n/ESPeaker32/blob/main/tesina_ESPeaker32_2.pdf)
+- 📜 **Tesina**: [tesina_ESPeaker32_2.pdf](https://github.com/rickb3n/ESPeaker32/blob/main/ESPeaker32.pdf)
 - **🛠 Hardware**: Schema elettrico e PCB con analisi e filtraggio del rumore ad alta frequenza.
 - **💾 Firmware**: [Libreria ESP32-A2DP](https://github.com/pschatzmann/ESP32-A2DP)
 - **🌡 Analisi termica**: Monitoraggio delle temperature e confronto teorico.  
